@@ -1,4 +1,3 @@
-# my_portfolio
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <h1 align="center">I'm Deepa 😀</h1>
@@ -43,20 +42,4 @@
 
 [linkedin]: https://www.linkedin.com/in/deepa-shelar-55b690142
 [Instagram]: https://www.instagram.com/deepa_shelar?igsh=MTNhcDVmeGVxYTNmYw==
-
-## 💰 You can support me if you liked my work by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dswithbappy)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=entbappy&label=Profile%20views&color=0e75b6&style=flat" alt="entbappy" /> </p>
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=entbappy" alt="entbappy" /></a> </p> -->
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=entbappy&show_icons=true&locale=en&layout=compact" alt="entbappy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=entbappy&show_icons=true&locale=en" alt="entbappy" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=entbappy&" alt="entbappy" /></p>
-
-
 
